@@ -1,0 +1,75 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    padding-top: 10px;
+}
+li{
+    color: gray;
+    display: inline;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+#image{
+    margin-top: 10px;
+    text-align: center;
+}
+#food1{
+    display: inline-block;
+    width: 200px; height: 375px;
+    border-color: black;
+    border-style: inset;
+}
+#food2{
+    display: inline-block;
+    width: 200px; height: 375px;
+    border-color: black;
+    border-style: inset;
+}
+#food3{
+    display: inline-block;
+    width: 200px; height: 375px;
+    border-color: black;
+    border-style: inset;
+}
+#food4{
+    display: inline-block;
+    width: 200px; height: 375px;
+    border-color: black;
+    border-style: inset;
+}
+p{
+    display: inline;
+    background-color: black;
+    color: white;
+    padding: 3px;
+    cursor: pointer;
+}
+#Contact{
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    padding: 20px;
+}
+table{
+    display: inline;
+    text-align: center;
+}
+button{
+    background-color: yellow;
+    color: black;
+    display: inline-block;
+    text-align: center;
+    width: 400px;
+    height: 30px;
+}
